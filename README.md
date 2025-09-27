@@ -54,5 +54,8 @@ With a passion for combining **historical accuracy** with **moral and spiritual 
 
 ---
 
+## Password 
+* **raf14**
+
 ## Note on Credentials
 This repository **does not** store passwords or sensitive credentials. Any configuration or passwords for local scripts should be stored in a `.env` file (included in `.gitignore`) or in GitHub Secrets for workflow automation.
